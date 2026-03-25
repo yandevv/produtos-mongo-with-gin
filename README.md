@@ -1,11 +1,10 @@
 
-# CRUDProdutosMongoAndGin
+# ProdutosMongoWithGin
 It's a simple application created with Go and library Gin for CRUD operations on products.
 
 ## Tech Stack Used
-**Back-end:** Go and Gin
-
-**Database:** MongoDB
+- **Back-end:** Go and Gin
+- **Database:** MongoDB
 
 ## Environment Variables
 To run your project, it's necessary the following environment variables on your `.env` file:
